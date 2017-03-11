@@ -16,7 +16,7 @@ function getRandomImage(images) {
     
         imgElement = document.getElementById('picture');
     
-    imgElement.innerHTML += '<img src="' + pic + '" width="100%" height="100%" />';
+    imgElement.innerHTML = '<img src="' + pic + '" width="100%" height="100%" />';
 }
 
 getRandomImage(images);
