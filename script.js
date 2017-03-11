@@ -1,12 +1,12 @@
 var images = [
-    '/Images/Background---Black-Ice.jpg',
-    '/Images/Background---Colour-Storm.jpg',
-    '/Images/Background---Electric-Water.jpg',
-    '/Images/Background---Lime-Drops.jpg',
-    '/Images/Background---Natural-Bubbles.jpg',
-    '/Images/Background---Nice-Try.jpg',
-    '/Images/Background---Peach-Hexagon.jpg',
-    '/Images/Background---Room-303.jpg'
+    'https://agskryp.github.io/Random-Image-JavaScript/Images/Background---Black-Ice.jpg',
+    'https://agskryp.github.io/Random-Image-JavaScript/Images/Background---Colour-Storm.jpg',
+    'https://agskryp.github.io/Random-Image-JavaScript/Images/Background---Electric-Water.jpg',
+    'https://agskryp.github.io/Random-Image-JavaScript/Images/Background---Lime-Drops.jpg',
+    'https://agskryp.github.io/Random-Image-JavaScript/Images/Background---Natural-Bubbles.jpg',
+    'https://agskryp.github.io/Random-Image-JavaScript/Images/Background---Nice-Try.jpg',
+    'https://agskryp.github.io/Random-Image-JavaScript/Images/Background---Peach-Hexagon.jpg',
+    'https://agskryp.github.io/Random-Image-JavaScript/Images/Background---Room-303.jpg'
 ];
 
 function getRandomImage(images) {
